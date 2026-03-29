@@ -1,0 +1,5 @@
+{
+  "name": "Script to Image Prompt AI",
+  "description": "Chuyển đổi kịch bản thành các prompt hình ảnh chuyên nghiệp sử dụng Gemini AI.",
+  "requestFramePermissions": []
+}
